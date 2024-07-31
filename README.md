@@ -84,3 +84,5 @@ Here are the steps you should take for this section:
 
 ### Conclusion
 With the completion of this project, we've successfully developed a predictive model for classifying music genres. This project not only demonstrates the importance of each step in the machine learning pipeline but also provides a foundation for exploring more advanced models and techniques in future projects. Remember, understanding the code and processes is key, so always strive to learn and apply these concepts independently.
+
+See you next week!
