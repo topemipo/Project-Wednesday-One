@@ -1,5 +1,10 @@
 # Project Wednesday: Predictive Analysis for Music Genre Classification
 
+Welcome to the very first project in the Project Wednesday series: Predictive Analysis for Music Genre Classification. This README file includes a step-by-step guide and resources to help absolute beginners get started with this project. You can find the Jupyter notebook with the code from my attempt at this project in the repository.
+
+I'll leave you to it.
+화이팅 😊
+
 ### Import all Neccesary Libraires and Modules
 
 I like to import all the libraries and modules I'll need for any project I'm working on before even starting anything, and then add to it if any new ones come up as I go. For this project, you will need modules from the pandas, numpy, seaborn, matplotlib, and scikit-learn libraries.
