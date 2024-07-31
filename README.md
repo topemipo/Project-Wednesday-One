@@ -1,5 +1,11 @@
 # Project Wednesday: Predictive Analysis for Music Genre Classification
 
+### Import all Neccesary Libraires and Modules
+
+I like to import all the libraries and modules I'll need for any project I'm working on before even starting anything, and then add to it if any new ones come up as I go. For this project, you will need modules from the pandas, numpy, seaborn, matplotlib, and scikit-learn libraries.
+
+I'll also suggest you include a line to suppress specific FutureWarning messages from Seaborn to keep the output clean and focused on the relevant results.
+
 ### Exploratory Data Analysis & Data Cleaning
 
 For the people that might need a little more help - Watch this [video](https://www.youtube.com/watch?v=Liv6eeb1VfE) or this [one](https://www.youtube.com/watch?v=xi0vhXFPegw) for a beginner's introduction to EDA. They both contain explanations to most of the functions I used in my own attempt. ChatGPT or any other LLM is also very helpful here but remember, don't just copy and paste without understanding how the code works and how you can write it on your own without any help next time.
@@ -13,7 +19,7 @@ Here are the steps you should take for this section :
 
 You can always check my attempt of this project on Github if you're not sure of anything.
 
-**Correlation Analysis**
+### Correlation Analysis
 
 The reason why we carryout correlation anaysis before applying PCA to our datset is because we want to besure if PCA is relevant. If there are no correlations between the variables in the dataset, PCA might not be useful. This is because PCA works by finding patterns in the data, and if the variables aren't related, there aren't any patterns to find. Without correlations, PCA won't help reduce the number of variables or reveal anything new about the data. Someone had ask a question similar to the statement above on Research Gate. 
 
