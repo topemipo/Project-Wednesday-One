@@ -81,3 +81,6 @@ Here are the steps you should take for this section:
 4. Transform the predictions into the original labels
 5. Assign these predicted genre labels to the corresponding rows in the original dataset, filling in the missing genre information.
 6. Save the dataset with the now filled columns into a new csv file.
+
+### Conclusion
+With the completion of this project, we've successfully developed a predictive model for classifying music genres. This project not only demonstrates the importance of each step in the machine learning pipeline but also provides a foundation for exploring more advanced models and techniques in future projects. Remember, understanding the code and processes is key, so always strive to learn and apply these concepts independently.
