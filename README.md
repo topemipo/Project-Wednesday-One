@@ -1,6 +1,6 @@
 # Project Wednesday: Predictive Analysis for Music Genre Classification
 
-## **Exploratory Data Analysis & Data Cleaning**
+**Exploratory Data Analysis & Data Cleaning**
 
 For the people that might need a little more help - Watch this [video](https://www.youtube.com/watch?v=Liv6eeb1VfE) or this [one](https://www.youtube.com/watch?v=xi0vhXFPegw) for a beginner's introduction to EDA. They both contain explanations to most of the functions I used in my own attempt. ChatGPT or any other LLM is also very helpful here but remember, don't just copy and paste without understanding how the code works and how you can write it on your own without any help next time.
 
