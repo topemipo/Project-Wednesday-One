@@ -1,4 +1,4 @@
-# Project Wednesday: Predictive Analysis for Music Genre Classification
+# Project Wednesdays: Predictive Analysis for Music Genre Classification
 
 Welcome to the very first project in the Project Wednesday series: Predictive Analysis for Music Genre Classification. This README file includes a step-by-step guide and resources to help absolute beginners get started with this project. You can find the Jupyter notebook with the code from my attempt at this project in the repository.
 
